@@ -18,7 +18,7 @@ User is not logged in and and no error appears.
 **Priority & Severity:** P1 - Critical
 
 **Test data:**
-User: radu & Pass: 123456
+User: test & Pass: 123456
 
 **Status:** NEW
 
